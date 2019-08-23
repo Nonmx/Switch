@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Switchy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CSLParser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/antlr-4.7-complete.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CodeAnt 2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OilParser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
